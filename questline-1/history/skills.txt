@@ -1,2 +1,0 @@
-being confused
-being straight

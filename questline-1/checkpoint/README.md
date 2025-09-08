@@ -1,2 +1,1 @@
-All this code was done for some purposes
-yes it has
+The code where I get needs revision
