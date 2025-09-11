@@ -1,0 +1,7 @@
+1. Farmer takes goat across the river (l: wolf,cabbage)
+2. Farmer returns alone (r: goat)
+3. Farmer takes the wolf across the river(r: goat,wolf)
+4. Farmer brings the goat back(r:wolf, l:goat,cabbage)
+5. Farmer takes cabbage across the river(r: wolf,cabbage)
+6. Farmer returns alone(r:wolf, cabbage)
+7. Farmer takes the goat across the river(complete!!!!)
