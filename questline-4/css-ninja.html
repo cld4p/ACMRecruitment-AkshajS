@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>layout stuff</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f2f5;
+            color: #000000;
+        }
+
+        .container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .column {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            flex: 1;
+            min-width: 250px;
+        }
+        h2 {
+            color: #001e3d;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="column">
+            <h2>About Me</h2>
+            <p>I am a dude that enjoys breathing, eating and existing in general</p>
+        </div>
+
+        <div class="column">
+            <h2>Skills</h2>
+            <ul>
+                <li>Existing</li>
+                <li>Professional Breather</li>
+                <li>2024 Championship Runner-Up at Existing</li>
+                <li>Needs Revision Champion</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
