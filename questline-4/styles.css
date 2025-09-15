@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+}
+
+.counter-container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 40px 60px;
+    border-radius: 10px;
+}
